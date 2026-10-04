@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # Java Revision
 
 Rebuilding my Java foundations for DSA and Spring Boot.
