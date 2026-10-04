@@ -4,7 +4,7 @@
 Rebuilding my Java foundations for DSA and Spring Boot.
 
 ## Contents
-- [Java in 3 Hours](notes/java-in-3-hours.md): full revision course with exercises and a final assessment
+- [Java in 3 Hours](notes/java-revision-3-hours.md): full revision course with exercises and a final assessment
 - `practice/src/`: my solved exercises and DSA problems in Java
 
 ## Progress

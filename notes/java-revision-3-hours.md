@@ -11,41 +11,6 @@
 4. Type the code in a real IDE (IntelliJ / VS Code). Do not just read it.
 5. Revisit later using the **Cheat Sheet** (Section 15) and the **Revision Checklist** (Section 17).
 
-**Bridge for ServiceNow people:** wherever helpful, a `🔗 ServiceNow bridge` box maps the idea to something you already know from ITSM / scripting.
-
----
-
-## 📅 The 180-Minute Timetable
-
-| Time | Min | Topic | Priority |
-|---|---:|---|---|
-| 0:00–0:15 | 15 | 1. Fundamentals | 🔴 Must |
-| 0:15–0:28 | 13 | 2. Methods + core concepts (pass-by-value) | 🔴 Must |
-| 0:28–1:00 | 32 | 3. OOP | 🔴 Must |
-| 1:00–1:09 | 9 | 4. Access modifiers + Object class (`equals`/`hashCode`) | 🔴 Must |
-| 1:09–1:20 | 11 | 5. Strings | 🔴 Must |
-| 1:20–1:29 | 9 | 6. Arrays | 🔴 Must |
-| 1:29–2:02 | 33 | 7. Collections | 🔴 Must |
-| 2:02–2:07 | 5 | 8. Generics | 🟡 Important |
-| 2:07–2:17 | 10 | 9. Exceptions | 🔴 Must |
-| 2:17–2:30 | 13 | 10. Lambdas, Streams, Optional | 🟡 Important |
-| 2:30–2:35 | 5 | 11. Comparable / Comparator | 🟡 Important |
-| 2:35–2:38 | 3 | 12. Memory + JVM | 🟢 Overview |
-| 2:38–2:43 | 5 | 13. Java for DSA toolkit | 🔴 Must |
-| 2:43–2:45 | 2 | 14. Java → Spring Boot map | 🟢 Overview |
-| 2:45–3:00 | 15 | 16. Final assessment | 🔴 Must |
-| **Total** | **180** | | |
-
-**Checkpoints**
-
-- **60 min** (end of OOP): you should have finished Parts 1–3. If not, skip the 🟢/🟡 parts later, never Strings/Arrays/Collections/Exceptions.
-- **120 min** (just before Exceptions): you should be done with Collections. If behind, shorten Generics, Streams, Comparator.
-- **165 min:** stop learning. Only assessment.
-
-Priority if time runs out: Fundamentals > Methods > OOP > Strings > Arrays > Collections > Exceptions > Generics > Lambda/Streams > DSA toolkit > JVM.
-
----
-
 # 1. Java Fundamentals (15 min)
 
 ## 1.1 What Java is
