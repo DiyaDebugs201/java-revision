@@ -1,0 +1,14 @@
+cat > .gitignore << 'EOF'
+# Java
+*.class
+out/
+target/
+build/
+*.jar
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.DS_Store
+EOF
